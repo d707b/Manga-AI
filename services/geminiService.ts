@@ -2,7 +2,7 @@ import { GoogleGenAI } from "@google/genai";
 import { AspectRatio, ImageStyle } from "../types";
 
 // Initialize Gemini Client
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey: AIzaSyDGFauYu9iRnf4O7v03dzdrhT6-8LzgmjI });
 
 /**
  * Generates an image based on the prompt and configuration.
